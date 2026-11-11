@@ -1,0 +1,6 @@
+{
+  "name": "Extensão EAD em Oftalmologia Clínica — Sistema Autenticador e Certificado Nº 04",
+  "description": "Portal Acadêmico, Estudo Dirigido Interativo e Sistema Oficial de Verificação Pública de Autenticidade do Programa de Extensão EAD: Princípios Teóricos da Oftalmologia para o Médico Generalista (Certificado Nº 04 - EMS-EXT-2024-0904).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
